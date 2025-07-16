@@ -21,3 +21,7 @@ Este é um site gamer moderno com tema inspirado no universo de **League of Lege
 
 Você pode visualizar o site ao publicá-lo com GitHub Pages:  
 Vá em:
+https://dani-dev-hayashi.github.io/League-of-Champions-Legends-/
+---
+
+Desenvolvido com ❤️ por um fã de Wild Rift.
